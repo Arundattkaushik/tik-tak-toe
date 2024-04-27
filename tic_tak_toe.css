@@ -1,0 +1,21 @@
+
+.container{
+     text-align: center; 
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row{
+   display: flex;
+}
+
+.col{
+    height: 65px;
+    width: 65px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
